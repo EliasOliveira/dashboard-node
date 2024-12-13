@@ -78,7 +78,7 @@ User the following credentials to authenticate
 
 * 1.0.0
   * Improve documentation
-  * Create data json
+  * Create data as json
 * 0.0.1
     * Initial work
 
