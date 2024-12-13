@@ -25,25 +25,45 @@ This project was designed to demonstrate:
 
 ## Usage example
 
-Execute the following commands to run the project
+ - Copy the service account to the file: [configuration](configuration)[example_firebase.js](configuration/example_firebase.js)
+ - Rename the file removing the prefix 'example_'
+ - Execute the following commands to run the project
 
 ---
 
 ## Installation
 
 ```sh
-npm install my-module --save
+npm install
 ```
 
+## Programs
 
-
-## Development setup
-
-Describe how to install all development dependencies and consider do this for multiple platforms.
+Create or update user info
 
 ```sh
-npm install my-module --save
+npm run test:createUserFirestore
 ```
+
+Create or update the app menus
+
+```sh
+npm run test:updateMenus
+```
+
+Create or update user data
+
+```sh
+npm run test:createUserData
+```
+
+
+## Login credentials
+User the following credentials to authenticate
+
+User: berms20_when@icloud.com
+Pass: 123456
+UID: DhFEMnexR8XLwTxezJSfRvzjNwr1
 
 ## Built With
 
