@@ -10,8 +10,12 @@ This project handles data management within a Firebase database instance.
 ## Author
 
 **Francisco Oliveira**
-* *Initial work* - [repository-name][repository-url] (Repository space)
-* *Released on TODO* [cloud-provider][cloud-provider-url] (Cloud provider)
+* *Backend Node* - [repository-name][repository-url] (Repository space)
+* *Backend Java* - In Progress
+* *Frontend Angular* - In Progress
+* *Frontend VueJS* - In Progress
+* *Frontend React* - In Progress
+* *Released on* [cloud-provider][cloud-provider-url] (Cloud provider)
 * *My professional profile on* [LinkedIn][linkedin-url]
 
 ## Showcase
@@ -37,7 +41,7 @@ This project was designed to demonstrate:
 npm install
 ```
 
-## Programs
+## Commands
 
 Create or update user info
 
@@ -61,9 +65,9 @@ npm run test:createUserData
 ## Login credentials
 User the following credentials to authenticate
 
-User: berms20_when@icloud.com
-Pass: 123456
-UID: DhFEMnexR8XLwTxezJSfRvzjNwr1
+ - User: berms20_when@icloud.com
+ - Pass: 123456
+ - UID: DhFEMnexR8XLwTxezJSfRvzjNwr1
 
 ## Built With
 
@@ -72,6 +76,9 @@ UID: DhFEMnexR8XLwTxezJSfRvzjNwr1
 
 ## Release History
 
+* 1.0.0
+  * Improve documentation
+  * Create data json
 * 0.0.1
     * Initial work
 
@@ -83,7 +90,7 @@ UID: DhFEMnexR8XLwTxezJSfRvzjNwr1
 
 [repository-url]: https://github.com/EliasOliveira/dashboard-node
 
-[cloud-provider-url]: https://wbshopping.herokuapp.com
+[cloud-provider-url]: https://console.firebase.google.com/u/0/project/francisco-oliveira
 
 [linkedin-url]: https://www.linkedin.com/in/junior-oliveira-dev/
 
