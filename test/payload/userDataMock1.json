@@ -1,0 +1,20 @@
+{
+  "stepCount": [
+    {
+      "stepCount": "3589.0"
+    }
+  ],
+  "activity": {
+    "activityMoveMode": "1",
+    "activeEnergyBurned": 481.00700000000126,
+    "activeEnergyBurnedGoal": 700,
+    "appleMoveTime": 0,
+    "appleExerciseTime": 14,
+    "appleExerciseTimeGoal": 60,
+    "appleStandHours": 17,
+    "appleStandHoursGoal": 15,
+    "standHoursGoal": 15,
+    "exerciseTimeGoal": 60,
+    "date": ""
+  }
+}
