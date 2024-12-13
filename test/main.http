@@ -1,0 +1,9 @@
+### GET local
+GET {{host}}/helloWorld
+Authorization: Bearer {{token}}
+
+### POST get User
+POST {{host}}/api/get
+Authorization: Bearer {{token}}
+
+
