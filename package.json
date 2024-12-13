@@ -1,0 +1,37 @@
+{
+  "name": "dashboard-node",
+  "version": "0.0.1-SNAPSHOT",
+  "description": "Showcase of a dashboard utilizing Firebase resources",
+  "main": "index.js",
+  "scripts": {
+    "test:createUserFirestore": "node index.js createUserFirestore",
+    "test:createUserData": "node index.js createUserData",
+    "test:updateMenus": "node index.js updateMenus"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliasOliveira/dashboard-node.git"
+  },
+  "keywords": [
+    "Node",
+    "Firebase",
+    "Firestore"
+  ],
+  "author": "Francisco Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EliasOliveira/dashboard-node/issues"
+  },
+  "homepage": "https://github.com/EliasOliveira/dashboard-node#readme",
+  "dependencies": {
+    "firebase-admin": "^12.6.0",
+    "firebase-functions": "^6.0.1",
+    "moment": "^2.29.4",
+    "body-parser": "^1.20.1",
+    "crypto-js": "^4.1.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "firebase-functions-test": "^3.1.0"
+  }
+}
