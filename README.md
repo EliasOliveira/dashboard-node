@@ -83,6 +83,12 @@ User the following credentials to authenticate
     * Initial work
 
 
+## Citations
+
+### [Our World Data][our-world-data]
+
+- "Data Page: Population density”, part of the following publication: Hannah Ritchie, Lucas Rodés-Guirao, Edouard Mathieu, Marcel Gerber, Esteban Ortiz-Ospina, Joe Hasell and Max Roser (2023) - “Population Growth”. Data adapted from PBL Netherlands Environmental Assessment Agency, Gapminder, United Nations, Food and Agriculture Organization of the United Nations. Retrieved from https://ourworldindata.org/grapher/population-density
+
 <!-- Markdown link & img dfn's -->
 
 [header-url]: github-template.png
@@ -99,3 +105,5 @@ User the following credentials to authenticate
 [version-url]: https://img.shields.io/badge/version-1.0.0-green
 [Backend-image]: https://img.shields.io/badge/Backend-Node%20-important?style=for-the-badge
 [Backend-url]: https://img.shields.io/badge/Backend-Java%208-important?style=for-the-badge
+
+[our-world-data]: https://ourworldindata.org
